@@ -352,3 +352,4 @@ PRODUCT_PACKAGES += \
 
 # Inherit vendor
 $(call inherit-product, vendor/samsung/gtowifi/gtowifi-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
